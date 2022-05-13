@@ -5,3 +5,7 @@ Supporting informationやSupplementaly Dataの1H NMRのケミカルシフトと�
 論文記載形式で出力します.
 
 対応: s, d, t, q, quin, sex, sept, multi, dd, dt, dq, td, tt, ddd
+
+
+C言語を学習している途中ですのでコードには多くの「無駄」が含まれていると思います.
+今後さらにブラッシュアップしていきます.
